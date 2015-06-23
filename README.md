@@ -1,2 +1,2 @@
 # assembly_TP2
-Program that encode and decode strings
+Program that encodes and decodes strings
